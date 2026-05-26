@@ -49,9 +49,9 @@
     "vuepress-plugin-md-enhance": "^2.0.0-beta.131"
   },
   "dependencies": {
-    "@balancer/sdk": "^0.0.3",
+    "@balancer/sdk": "^0.7.0",
     "@headlessui/vue": "^1.7.14",
-    "axios": "^1.4.0",
+    "axios": "^1.15.2",
     "color": "^4.2.3",
     "ethereum-blockies": "^0.1.1",
     "ethers": "^6.4.0",
